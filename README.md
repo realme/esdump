@@ -1,4 +1,4 @@
-# esdump
+# ESDump
 export tools for elasticsearch
 
 # Install
